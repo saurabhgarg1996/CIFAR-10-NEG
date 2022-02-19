@@ -1,12 +1,11 @@
 # CIFAR-10-NEG
-CIFAR-10-Neg dataset
 
 This repository contains the CIFAR-10-Neg dataset prepared and published in "Deconstructing Distributions: A Pointwise Framework of Learning" by Gal Kaplun, Nikhil Ghosh, Saurabh Garg, Boaz Barak, Preetum Nakkiran.
 
 The files CIFAR10_neg.npz contains 1000 datapoints from CINIC-10 test set. This file contains the following keys:
 
-data: an 1000x32x32x10 numpy uint8 array containing the image data
-labels: a numpy int64 array containing labels (integers between 0 and 9)
+data: an 1000x32x32x10 numpy uint8 array containing the image data   
+labels: a numpy int64 array containing labels (integers between 0 and 9)  
 
 ``` python
 import numpy as np
@@ -34,12 +33,4 @@ If you find this data useful, please cite the following paper:
 }
 ```
 
-Also please consider citing the paper accompanied the CINIC-10 data (of which CIFAR-10-Neg is a subset): 
-```
-@article{darlow2018cinic,
-  title={Cinic-10 is not imagenet or cifar-10},
-  author={Darlow, Luke N and Crowley, Elliot J and Antoniou, Antreas and Storkey, Amos J},
-  journal={arXiv preprint arXiv:1810.03505},
-  year={2018}
-}
-```
+In addition, please consider [citing]() the paper accompanying the CINIC-10 data (of which CIFAR-10-Neg is a subset). 

@@ -1,0 +1,6 @@
+@article{darlow2018cinic,
+  title={Cinic-10 is not imagenet or cifar-10},
+  author={Darlow, Luke N and Crowley, Elliot J and Antoniou, Antreas and Storkey, Amos J},
+  journal={arXiv preprint arXiv:1810.03505},
+  year={2018}
+}
