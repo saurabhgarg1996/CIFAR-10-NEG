@@ -33,4 +33,4 @@ If you find this data useful, please cite the following paper:
 }
 ```
 
-In addition, please consider [citing]() the paper accompanying the CINIC-10 data (of which CIFAR-10-Neg is a subset). 
+In addition, please consider [citing](https://raw.githubusercontent.com/saurabhgarg1996/CIFAR-10-NEG/main/cinic10_bibtex.txt) the paper accompanying the CINIC-10 data (of which CIFAR-10-Neg is a subset). 
