@@ -9,7 +9,6 @@ labels: a numpy int64 array containing labels (integers between 0 and 9)
 
 ``` python
 import numpy as np
-from matplotlib import pyplot as plt
 
 
 CIFAR_10_neg = np.load('CIFAR10_neg.npz')
