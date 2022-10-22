@@ -22,13 +22,13 @@ We also release the indices of the CINIC-10 test set that we include to create C
 
 If you find this data useful, please cite the following paper: 
 
-> Kalpun, G., Ghosh, N., Garg, S., Boaz, B., Nakkiran, P. (2022). Deconstructing Distributions: A Pointwise Framework of Learning. arxiv preprint arXiv:xxxx:xxxxx. 
+> Kalpun, G., Ghosh, N., Garg, S., Boaz, B., Nakkiran, P. (2022). Deconstructing Distributions: A Pointwise Framework of Learning. arxiv preprint arXiv:2202.09931. 
 ```
 @article{kalpun2022deconstructing,
     title={Deconstructing Distributions: A Pointwise Framework of Learning},
     author={Kalpun, Gal and Ghosh, Nikhil and Garg, Saurabh and Barak, Boaz and Nakkiran, Preetum },
     year={2022},
-    journal={arXiv preprint arXiv:xxxx.xxxxx},
+    journal={arXiv preprint arXiv:2202.09931},
 }
 ```
 
